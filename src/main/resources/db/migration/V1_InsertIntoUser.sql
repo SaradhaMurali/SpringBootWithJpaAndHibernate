@@ -1,0 +1,1 @@
+insert into user (userName,password,phoneNumber) values ('Sanjith','sanjithkumar','12345');
